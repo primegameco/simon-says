@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/simon-says/static/css/main.d93ef70b.chunk.css",
+    "main.js": "/simon-says/static/js/main.ca515021.chunk.js",
+    "main.js.map": "/simon-says/static/js/main.ca515021.chunk.js.map",
+    "runtime-main.js": "/simon-says/static/js/runtime-main.507f556a.js",
+    "runtime-main.js.map": "/simon-says/static/js/runtime-main.507f556a.js.map",
+    "static/js/2.47111d83.chunk.js": "/simon-says/static/js/2.47111d83.chunk.js",
+    "static/js/2.47111d83.chunk.js.map": "/simon-says/static/js/2.47111d83.chunk.js.map",
+    "index.html": "/simon-says/index.html",
+    "precache-manifest.b9b0c2e333673dbdc16504877bd2d370.js": "/simon-says/precache-manifest.b9b0c2e333673dbdc16504877bd2d370.js",
+    "service-worker.js": "/simon-says/service-worker.js",
+    "static/css/main.d93ef70b.chunk.css.map": "/simon-says/static/css/main.d93ef70b.chunk.css.map",
+    "static/js/2.47111d83.chunk.js.LICENSE.txt": "/simon-says/static/js/2.47111d83.chunk.js.LICENSE.txt",
+    "static/media/blue.mp3": "/simon-says/static/media/blue.d6f8a4c1.mp3",
+    "static/media/green.mp3": "/simon-says/static/media/green.3c8ca947.mp3",
+    "static/media/red.mp3": "/simon-says/static/media/red.8d481077.mp3",
+    "static/media/yellow.mp3": "/simon-says/static/media/yellow.3ee58245.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.507f556a.js",
+    "static/js/2.47111d83.chunk.js",
+    "static/css/main.d93ef70b.chunk.css",
+    "static/js/main.ca515021.chunk.js"
+  ]
+}
